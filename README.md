@@ -12,9 +12,9 @@
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+The program I decied to use was Visual Studio with C++20.
 
-{Describe the programming language that you used}
+
 
 # Useful Websites
 
