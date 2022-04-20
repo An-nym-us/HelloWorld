@@ -1,23 +1,21 @@
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
-
-{Provide a description of your software}
-
-{Describe your purpose for creating this software.}
+This is a simple program to help ensure that I have properly set up my IDE and github to use for future programs within this class.
 
 {Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
 
+
+
 [Software Demo Video](http://youtube.link.goes.here)
 
-# Development Environment
 
-The program I decied to use was Visual Studio with C++20.
+# Development Environment
+The program I decided to use was Visual Studio  community 2022 with C++.
 
 
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
+* [Download VS](https://visualstudio.microsoft.com/downloads/)
 * [Web Site Name](http://url.link.goes.here)
