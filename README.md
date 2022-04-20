@@ -16,6 +16,5 @@ The program I decided to use was Visual Studio  community 2022 with C++.
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Download VS](https://visualstudio.microsoft.com/downloads/)
-* [Web Site Name](http://url.link.goes.here)
+* [C++ ISO](https://isocpp.org/std/the-standard)
